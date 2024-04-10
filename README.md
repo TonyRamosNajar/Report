@@ -104,7 +104,9 @@
 
 ### 1.1.1. Descripción de la Startup
 
-
+Curihub es un startup dedicado a fomentar y motivar los hábitos de lectura mediante el uso de tecnologías que facilitan el acceso, la distribución y la venta de mercancia.
+En Curihub, nos visualizamos como líderes en la transformación del sector de la lectura a través de soluciones tecnológicas innovadoras y una cultura de colaboración. Queremos ser reconocidos por nuestra capacidad para crear un ecosistema de compra y venta de productos de anime inclusivo, accesible y sostenible, que inspire a las personas a disfrutar de este contenido en todo el mundo.
+Nuestra misión es hacer que la adquisición de productos de anime más eficiente, segura y confable. Para lograrlo, trabajamos en estrecha colaboración con tiendas y distribuidoras para desarrollar soluciones tecnológicas innovadoras que hagan que la venta de estos productos sea más conveniente y atractiva que nunca.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
