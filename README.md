@@ -104,9 +104,7 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Programadores de lavadadoras es un startup dedicado a fomentar y motivar los hábitos de lectura mediante el uso de tecnologías que facilitan el acceso, la distribución y la creación de contenidos.
-En Programadores de lavadoras, nos visualizamos como líderes en la transformación del sector de la lectura a través de soluciones tecnológicas innovadoras y una cultura de colaboración. Queremos ser reconocidos por nuestra capacidad para crear un ecosistema de lectura inclusivo, accesible y sostenible, que inspire a las personas a leer y disfrutar de historias en todo el mundo.
-Nuestra misión es hacer que la lectura sea más accesible y atractiva para todas las personas, sin importar su edad o nivel de educación. Para lograrlo, trabajamos en estrecha colaboración con autores, editores y lectores para desarrollar soluciones tecnológicas innovadoras que hagan que la lectura sea más conveniente y atractiva que nunca.
+
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -123,38 +121,31 @@ Nuestra misión es hacer que la lectura sea más accesible y atractiva para toda
 ### 1.2.1. Antecedentes y Problemática
 
 **What?**<br>
-La problemática detectada por nuestro startup se centra en la disminución de los hábitos de lectura que ha ocurrido en las últimas décadas, debido a la revolución tecnológica y la aparición de nuevos medios de entretenimiento.
-Esto afecta tanto a los lectores, quienes consumen poco contenido o no disponen de una forma sencilla y directa de hacerlo, como a los autores, quienes producen contenido para ser disfrutado por los lectores.
-Asimismo, se necesita innovar en el uso de la tecnología para hacer que la lectura sea más accesible, atractiva y conveniente para las personas.
+
 
 **When?**<br>
-Lamentablemente, este problema ha estado presente durante las últimas décadas debido al aumento de las aplicaciones y servicios de entretenimiento que han penetrado en el mercado con fuerza, lo que ha ocasionado que los medios tradicionales, como la lectura, ya no resulten tan atractivos como solían ser.
-En consecuencia, con el fin de fomentar tanto la creación como el consumo de lectura, nuestro producto estaría diseñado para ser utilizado por personas interesadas en disfrutar o crear contenido de lectura como medio de entretenimiento.
+
 
 **Where?**<br>
-Los usuarios podrán utilizar nuestra aplicación en cualquier dispositivo que dispongan de acceso a internet, ya que contará con diseño responsivo. Por ende, está dirigida (principalmente) a los autores y lectores de contenido literario.
+
 
 **Who?**<br>
-Los usuarios de la plataforma (e involucrados en el problema) son las personas interesadas en la creación y el consumo de historias, cómics y mangas.
+
 
 **Why?**<br>
-Se crea el startup para atender a la disminución de hábitos de lectura debido a la revolución tecnológica y la aparición de nuevos medios de entretenimiento. Nuestra plataforma busca fomentar la lectura y la creación de historias para ofrecer una alternativa de entretenimiento atractiva y accesible.
+
 
 **How?**<br>
-La plataforma permitirá a los autores compartir sus obras con la comunidad. Además, los autores podrán compartir en un blog ideas, tips, consejos, etc. para que los demás usuarios puedan leerlo. Se ofrecerán herramientas para la creación de contenido (como editor de texto o subida de imágenes) y se buscará incentivar a los autores a seguir publicando sus obras al recibir un tipo de retribución por ellas.
+
 
 **How much?**<br>
-Según La República (2022), el hábito de la lectura resulta importante porque permite quitar estrés, mejora el vocabulario, ayuda a evitar el alzheimer, fomenta la creatividad, permite desarrollar la empatía, etc. Por lo tanto, queda claro que resulta una actividad de ocio (dado que ayuda a quitar el estrés) que brinda varios beneficios útiles para la vida del lector.
-Desafortunadamente, es importante destacar que, según Forbes (2021), los peruanos leen un libro al año aproximadamente. Valor que, en comparación a otros países latinoamericanos, queda dentro de los puestos de menor libros leídos.
+
 
 **Antecedentes:**<br>
-En la actualidad, los hábitos de lectura se encuentran disminuyendo debido al aumento de las distracciones y la competencia de otras formas de entretenimiento, como la televisión, los videojuegos y las redes sociales.
-Asimismo, muchas personas tienen dificultades para acceder a libros y otros materiales de lectura debido a limitaciones geográficas, económicas o por su forma de acceso (librerías o bibliotecas).
-Finalmente, es importante destacar que la industria editorial tradicional se enfrenta a la amenaza de la piratería digital, lo que dificulta la monetización de la creación de contenidos.
+
 
 **Problemática a resolver:**<br>
-En consecuencia, a todo lo presentado con anterioridad, existe una necesidad de fomentar hábitos de lectura saludables y mejorar la accesibilidad a los libros y otros materiales de lectura.
-Para esto, es necesario encontrar nuevas formas de monetizar la creación de contenidos y proteger los derechos de autor. Asimismo, se necesita innovar en el uso de tecnología para hacer que la lectura sea más accesible, atractiva y conveniente para las personas.
+
 
 ### 1.2.2. Lean UX Process
 
@@ -313,9 +304,15 @@ Preguntas principales:
 Preguntas introductorias:
 
 - ¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
-- 
+- ¿A qué se dedica actualmente?
 - ¿Cuáles son los dispositivos que utiliza principalmente?
-- 
+- ¿Qué géneros de manga prefieres y por qué?
+- ¿Sigues a autores específicos? ¿Cuáles son tus favoritos?
+- ¿Prefieres comprar mangas en formato físico o digital? ¿Por qué?
+- ¿También compras mercancia de tus mangas preferidos?
+- ¿Cómo decides qué manga comprar? ¿Qué factores influyen en tu decisión?
+- ¿Qué buscas en una tienda de mangas, ya sea en línea o física?
+- Describe una experiencia de compra positiva que hayas tenido al adquirir mangas. ¿Qué la hizo especial?
 
 Preguntas principales:
 
