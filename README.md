@@ -107,6 +107,7 @@
 Curihub es un startup dedicado a fomentar y motivar los hábitos de lectura mediante el uso de tecnologías que facilitan el acceso, la distribución y la venta de mercancia.
 En Curihub, nos visualizamos como líderes en la transformación del sector de la lectura a través de soluciones tecnológicas innovadoras y una cultura de colaboración. Queremos ser reconocidos por nuestra capacidad para crear un ecosistema de compra y venta de productos de anime inclusivo, accesible y sostenible, que inspire a las personas a disfrutar de este contenido en todo el mundo.
 Nuestra misión es hacer que la adquisición de productos de anime más eficiente, segura y confable. Para lograrlo, trabajamos en estrecha colaboración con tiendas y distribuidoras para desarrollar soluciones tecnológicas innovadoras que hagan que la venta de estos productos sea más conveniente y atractiva que nunca.
+Nuestra vusión es ser reconocidos como líderes globales en la distribución de productos de anime, transformando y unificando el mercado a través de la innovación tecnológica. Aspiramos a ser el puente principal entre Japón y el resto del mundo para productos de anime, creando una comunidad global donde fans, tiendas y distribuidores puedan prosperar juntos.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -123,31 +124,32 @@ Nuestra misión es hacer que la adquisición de productos de anime más eficient
 ### 1.2.1. Antecedentes y Problemática
 
 **What?**<br>
-
+La empresa se especializa en la distribución de una amplia gama de productos relacionados con el anime, incluyendo mangas, peluches, figuras coleccionables, ropa y más. Ofrece una plataforma web que facilita a tiendas y distribuidores la venta y compra de estos productos de manera segura, eficiente y rápida.
 
 **When?**<br>
-
+La operación de la empresa podría haber comenzado hace unos años, adaptándose y creciendo en respuesta a la creciente popularidad del anime y la cultura pop japonesa a nivel mundial. La plataforma web está disponible 24/7, ofreciendo actualizaciones constantes de inventario y nuevos lanzamientos.
 
 **Where?**<br>
-
+Los usuarios ya sean consumidores y distribuidores podrán utilizar nuestra aplicación en cualquier dispositivo que dispongan de acceso a internet, ya que contará con diseño responsivo. Por ende, está dirigida (principalmente) a los vendedores y compradores de productos de anime.
 
 **Who?**<br>
-
+La empresa atiende a un amplio espectro de clientes, desde tiendas especializadas en productos de anime y manga hasta grandes distribuidores y minoristas online que buscan ampliar su oferta de productos. También atrae a consumidores finales apasionados por el anime y la cultura pop japonesa.
 
 **Why?**<br>
-
+La empresa fue creada para solucionar varios desafíos en la industria del anime y manga, como la dificultad de acceso a un catálogo diverso y auténtico de productos fuera de Japón, la necesidad de una distribución más eficiente y segura, y la demanda de servicios personalizados para tiendas y distribuidores.
 
 **How?**<br>
-
+Mediante el desarrollo de una plataforma web intuitiva y segura, la empresa facilita el proceso de pedido, venta y distribución de productos de anime. La plataforma incluye funciones como gestión de inventario, procesamiento de pedidos en tiempo real, seguimiento de envíos, y soporte al cliente. La empresa asegura la autenticidad y calidad de los productos a través de asociaciones directas con proveedores y fabricantes en Japón.
 
 **How much?**<br>
-
+Los costos para los usuarios de la plataforma pueden variar. Podría incluir una tarifa de suscripción mensual o anual para los vendedores, además de una comisión sobre las ventas realizadas. Para los compradores, los precios de los productos estarían competitivamente establecidos, y los costos de envío se calculan en función del destino y el tamaño del pedido.
 
 **Antecedentes:**<br>
-
+La proliferación del anime y la cultura pop japonesa ha visto un aumento en la demanda mundial de productos relacionados. Sin embargo, muchas tiendas y distribuidores fuera de Japón enfrentan dificultades para acceder a un mercado diverso y obtener productos auténticos de manera eficiente y rentable. Además, la falsificación y la variabilidad en la calidad de los productos son problemas constantes en el mercado.
 
 **Problemática a resolver:**<br>
-
+Acceso limitado a productos auténticos y variados de anime fuera de Japón, ineficiencias en la cadena de suministro y distribución para tiendas y distribuidores internacionales.
+Falta de una plataforma centralizada que ofrezca seguridad, eficiencia y rapidez en la transacción y distribución de productos de anime y la necesidad de un control de calidad confiable para combatir la proliferación de productos falsificados.
 
 ### 1.2.2. Lean UX Process
 
