@@ -171,13 +171,13 @@ Creo que mis clientes necesitan acceder a una amplia variedad de mangas y produc
 
 El valor #1 que un cliente requiere de mi servicio es que puedan acceder al catálogo de productos de las tiendas y distruibuidoras de forma eficiente y segura, además de que les permita realizar las operaciones de compra y venta.<br>
 
-El cliente también puede obtener estos beneficios adicionales: ahorrar tiempo en realizar el proceso de publicación (al contar con una herramienta que lo gestiona de una manera más automatizada), una mejor experiencia por parte de los lectores (al contar con una amplia variedad de contenido centralizado en una aplicación que le fomente a seguir leyendo) y una mayor facilidad para obtener algún tipo de retribución económica por sus obras.
+El cliente también puede obtener estos beneficios adicionales: ahorrar tiempo en realizar el proceso de publicación de productos (al contar con una herramienta que lo gestiona de una manera más automatizada), una mejor experiencia por parte de los consumidores (al contar con una amplia variedad de contenido centralizado en una aplicación que le fomente a seguir comprando) y una mayor facilidad para realizar pagos por sus productos.
 
-Voy a adquirir a mis clientes a través de publicidad en redes sociales como YouTube y Google Ads para alcanzar a los autores y lectores de contenido literario. Asimismo, buscaremos fidelizar a nuestros clientes para que empiecen a realizar marketing de boca a boca.
+Voy a adquirir a mis clientes a través de publicidad en redes sociales como YouTube y Google Ads para alcanzar a los productores y consumidores de productos anime. Asimismo, buscaremos fidelizar a nuestros clientes para que empiecen a realizar marketing de boca a boca.
 
-Haré dinero a través de planes de suscripción a los lectores de la página que quieran acceder al contenido completo del catálogo.
+Haré dinero a través una tarifa de suscripción mensual o anual para los vendedores, además de una comisión sobre las ventas realizadas. Para los compradores, los precios de los productos estarían competitivamente establecidos, y los costos de envío se calculan en función del destino y el tamaño del pedido.
 
-Mi competencia en el mercado serán las empresas ya establecidas que ofrecen aplicaciones que permiten realizar estas mismas acciones de acceso, publicación y edición de obras.
+Mi competencia en el mercado serán las empresas ya establecidas que ofrezcan servicio de plataforma de comercio electrónico specializadas en productos de anime u otros.
 
 Los venceremos debido a que brindaremos una experiencia de software que cumple con lo requerido para que sea una aplicación completa en su rubro y sea amigable con los dos usuarios que interactúan con ella.
 
@@ -187,36 +187,36 @@ Resolveremos esto a través de un buen proceso de desarrollo, apoyado en el dise
 
 Sabremos que hemos tenido éxito cuando veamos uno de estos cambios en el comportamiento de nuestro cliente:
 
-- Mayor satisfacción al saber que puede acceder fácilmente a una retribución por su trabajo realizado.
-- Motivación al saber que su contenido está siendo publicado en una plataforma que fomenta la lectura entre los lectores apasionados a las historias.
+- Mayor satisfacción al saber que puede acceder fácilmente a una amplia variedad de clientes para realizar ventas.
+- Motivación al saber que sus productos están siendo publicados en una plataforma que fomenta y brinda recomendaciones a clientes según sus gustos y preferencias.
 
 **¿Qué otras suposiciones tenemos que, de probarse falsas, pueden causar que nuestro proyecto fracase?**<br>
 
-- Los lectores buscan utilizar medios más actuales para adquirir y consumir contenido literario.
-- Los autores no se sienten cómodos con los medios tradicionales de publicación. Asimismo, esperan en algún momento recibir algún tipo de retribución por su trabajo.
+- Los consumidores buscan utilizar medios más actuales para adquirir y consumir productos de anime.
+- Los dueños de tiendas o distribuidoras no se sienten cómodos con los medios tradicionales de publicación. Asimismo, esperan en algún momento recibir un aumento de ventas y clientela.
 
 **User Assumptions**<br>
 **¿Quién es el usuario?**
 
-- Los autores / creadores de contenido literario que escriban diferentes tipos de historias (ej. cómics, mangas y novelas ligeras).
-- Lectores que consumen contenido literario por medio tradicionales y/o digitales.
+- Las tiendas especializadas en productos de anime y manga hasta grandes distribuidores y minoristas online que buscan ampliar su oferta de productos.
+- Consumidores finales apasionados por el anime y la cultura pop japonesa.
 
 **¿Dónde encaja nuestro producto? ¿En su trabajo o en su vida?**<br>
-En el caso de los lectores, la utilización de la plataforma se da cuándo están buscando realizar una actividad de ocio. Por ende, el producto será utilizado en su vida cotidiana.
+En el caso de los consumidores, la utilización de la plataforma se da cuándo están buscando realizar una actividad de ocio. Por ende, el producto será utilizado en su vida cotidiana.
 
-En el caso de los autores, dependerá de la percepción que ellos tengan sobre las obras que escriben (ya sea un hobby o un trabajo). No obstante, para fines prácticos, se considerará que nuestro producto será utilizado en el desarrollo de sus actividades de trabajo.
+En el caso de los autores, el uso de la plataforma se da cuándo estan buscando aumentar sus ventas dentro de su trabajo. No obstante, para fines prácticos, se considerará que nuestro producto será utilizado en el desarrollo de sus actividades de trabajo.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**<br>
 Problemas:
 
-- Que la herramienta no resulte atractiva para los lectores y autores, ya que sin ambas partes no se podría generar suficiente contenido y monetización para mantener el negocio en funcionamiento.
-- Que los lectores no encuentren interesante nuestra propuesta y prefieran conservar o mantener la forma en la que consumían contenido hasta el momento.
+- Que la herramienta no resulte atractiva para los consumidores y distribuidores, ya que sin ambas partes no se podría generar suficiente contenido y monetización para mantener el negocio en funcionamiento.
+- Que los consumidores no encuentren interesante nuestra propuesta y prefieran conservar o mantener la forma en la que consumían contenido hasta el momento.
   Solución:
 - Realizar un buen diseño de entrevistas para que esta sea realizada de la mejor manera posible y entender qué es lo que espera encontrar los dos tipos de usuario y cómo debería ser su experiencia de usuario al emplear la aplicación.
 - Obtener información de la competencia y analizarla para establecer un estándar de qué características necesitamos desarrollar para nuestro producto.
 
 **¿Cuándo y cómo es usado nuestro producto?**<br>
-Nuestro producto de software será utilizado cuando el autor de historias decida publicar sus obras y busque, opcionalmente, recibir algún tipo de retribución económica por ello.
+Nuestro producto de software será utilizado cuando el distribuidor decida publicar su catálogo de productes y busque aumentar su npumero de ventas y clientes.
 
 También, cuando el lector decida acceder a consumir diversas obras publicadas en una misma plataforma.
 
@@ -224,10 +224,9 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 
 **¿Qué características son importantes?**
 
-- Realizar operaciones de creación, visualización y edición de las obras que el autor publique.
-- Permitir a los autores crear blog post para que puedan compartir ideas, tips, consejos, etc. con los demás usuarios.
-- Facilitar al lector la búsqueda de obras según la saga, género o título de este.
-- Limitar el acceso de los usuarios gratuitos a los primeros 3 capítulos de las obras.
+- Realizar operaciones de creación, visualización y edición de los productos que el distribuidor publique.
+- Permitir a las distribuidoras crear blog post para que puedan recibir comentarios, peticiones y calificaciones a sus productos por parte de los usuarios.
+- Facilitar al consumidor la búsqueda de productos según la tienda, categoría y precio de este.
 
 **¿Cómo debe verse y comportarse nuestro producto?**
 
