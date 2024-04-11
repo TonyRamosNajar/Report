@@ -105,7 +105,7 @@ Nuestra vusión es ser reconocidos como líderes globales en la distribución de
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="./images/" width="200" height="200">   |  |
 | <img src="./images/" width="200" height="200">   |   |
-| <img src="./images/" width="200" height="200">    |  |
+| <img src="./images/Rafael.jpeg" width="200" height="200">    |   Mi nombre es Rafael Alberto Cuya Villegas y tengo 22 años. Actualmente, estoy cursando la carrera de Ingeniería de Software y tengo una gran pasión por los deportes, especialmente el fútbol. Desde muy joven, me he sentido atraído por la tecnología y siempre he mostrado interés en diversos dispositivos electrónicos. Me considero una persona responsable, con habilidades para el trabajo en equipo, ya que creo firmemente que es fundamental para aprender de manera efectiva y alcanzar resultados óptimos. |
 | <img src="./images/fabrizzio.jpg" width="200" height="200"> | Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo. |
 | <img src="./images/jose.jpeg" width="200" height="200">  |  Mi nombre es Jose Daniel Zarate Castro y actualmente tengo 20 años. Soy un estudiante de Ingeniería de Software en el quinto ciclo de mi formación académica. Soy una persona muy orientada al trabajo en equipo y siempre estoy entusiasmado por colaborar y contribuir al máximo. Me considero un participante activo en cualquier proyecto o actividad que emprenda. Tengo una actitud empática hacia los demás y me esfuerzo por entender las necesidades y perspectivas de mis compañeros. En términos de conocimientos técnicos tengo conocimientos en Java, c# y Python.
  |
@@ -297,14 +297,7 @@ Preguntas introductorias:
 - ¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
 - ¿A qué se dedica actualmente?
 - ¿Cuáles son los dispositivos que utiliza principalmente?
-- ¿Qué géneros de manga prefieres y por qué?
-- ¿Sigues a autores específicos? ¿Cuáles son tus favoritos?
-- ¿Prefieres comprar mangas en formato físico o digital? ¿Por qué?
-- ¿También compras mercancia de tus mangas preferidos?
-- ¿Cómo decides qué manga comprar? ¿Qué factores influyen en tu decisión?
-- ¿Qué buscas en una tienda de mangas, ya sea en línea o física?
-- Describe una experiencia de compra positiva que hayas tenido al adquirir mangas. ¿Qué la hizo especial?
-
+- 
 Preguntas principales:
 
 - ¿Qué géneros de manga prefieres y por qué?
