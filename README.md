@@ -461,7 +461,17 @@ Lector de contenido
 
 ## 3.4. Product Backlog
 
-![Product Backlog](images/Product%20backlog.jpeg)
+|**#Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1 / 2 / 3 / 5 / 8)**|
+|----------|-----------------|----------|---------------|---------------------------------------|
+|   1      |    HU-01        | Registro y Creación de Perfil | Como usuario de la plataforma, quiero poder registrarme y crear un perfil para acceder a todas las funcionalidades, como buscar y comprar productos. | 3 |
+|   2      |    HU-02        | Publicación de Productos | Como propietario de una tienda, quiero poder publicar mis productos en la plataforma de manera fácil y rápida, incluyendo imágenes, descripciones y precios. | 8 |
+|   3      |    HU-03        | Búsqueda y Filtros de Productos | Como consumidor, quiero poder buscar y filtrar productos por tienda, categoría y precio para encontrar rápidamente lo que estoy buscando. | 5 |
+|   4      |    HU-04        | Gestión de Carrito de Compras | Como usuario, quiero poder agregar productos a mi carrito de compras, editar la cantidad y proceder al pago de manera segura y confiable. | 5 |
+|   5      |    HU-05        | Interacción con la Comunidad | Como propietario de una tienda, quiero poder interactuar con los clientes a través de publicaciones de blog, recibir comentarios y calificaciones para mejorar mis productos y servicios. | 3 |
+|   6      |    HU-06        | Personalización de Contenido | Como usuario, quiero recibir recomendaciones personalizadas de productos basadas en mis intereses y compras anteriores para descubrir nuevas obras de anime y manga. | 5 |
+|   7      |    HU-07        | Gestión de Pedidos y Envíos | Como propietario de una tienda, quiero poder gestionar fácilmente los pedidos recibidos, procesarlos y coordinar los envíos de manera eficiente para garantizar una experiencia de compra satisfactoria para mis clientes. | 8 |
+|   8      |    HU-08        | Soporte y Atención al Cliente | Como usuario, quiero contar con un servicio de atención al cliente accesible y receptivo que resuelva mis dudas, problemas o reclamos de manera oportuna y efectiva. | 3 |
+
 
 ---
 
