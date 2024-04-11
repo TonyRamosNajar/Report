@@ -155,12 +155,11 @@ Falta de una plataforma centralizada que ofrezca seguridad, eficiencia y rapidez
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Problem Statement #1: Creadores de contenido literario**<br>
-En la actualidad, muchos autores (principalmente novatos) afrontan problemas para retener y atraer a nuevos usuarios que consuman sus obras. Asimismo, emplear los medios tradicionales de publicación suele implicar un proceso bastante extenso para obtener algún tipo de retribución económica por el trabajo realizado además de que, los medios de publicación que emplean suelen estar limitados en el uso de la nueva tecnología o no es aprovechado al máximo.
-De este modo, se ha detectado como factor crítico el hecho de que no se brinden facilidades a los autores para la publicación y monetización de su contenido con el uso de las nuevas tecnologías que les permite alcanzar a una mayor cantidad de usuarios lectores.<br>
-**¿Cómo brindar una mejor experiencia a los autores al momento de tener que publicar y vender sus obras según las nuevas tecnologías e innovaciones que existen en el mercado actual?**
+**Problem Statement #1: Tiendas y distribuidoras de anime**<br>
+En el dinámico mercado del anime y el manga, los dueños de tiendas y distribuidoras enfrentan múltiples desafíos para satisfacer la creciente demanda de productos auténticos y variados. Estos desafíos incluyen dificultades para acceder a un inventario amplio y diversificado, la gestión ineficiente de la cadena de suministro, y la constante amenaza de productos falsificados, lo que resulta en una experiencia de compra decepcionante para los consumidores finales y afecta la reputación de los vendedores. A esto se suma la complejidad de gestionar múltiples relaciones con proveedores y la presión de mantener una logística eficiente y coste-efectiva en un entorno de comercio electrónico globalizado. Estos problemas no solo limitan la capacidad de las tiendas y distribuidoras para expandir su alcance y mejorar su rentabilidad, sino que también comprometen su habilidad para proporcionar a los aficionados del anime acceso rápido y seguro a los productos que aman, obstaculizando el crecimiento general del mercado de anime y manga fuera de Japón.<br>
+**¿Cómo atraer más clientes a las tiendas y distruibuidoras de anime haciendo uso de las nuevas tecnologías e innovaciones que existen en el mercado actual?**
 
-**Problem Statement #2: Lectores de contenido**<br>
+**Problem Statement #2: Consumidores de contenido**<br>
 Las personas que buscan consumir contenido literario a menudo se enfrentan a la difícil realidad de no tener acceso fácil al contenido en formato digital. Además, en algunos casos no logran encontrar legalmente el contenido deseado, lo que las lleva a recurrir a prácticas ilegales como la piratería, lo que afecta directamente a los creadores de contenido.
 De este modo, se detectó como factor crítico la falta de acceso fácil y legal al contenido literario en formato digital que permitan a los lectores seguir apoyando a los autores de las obras que ellos consumen sin tener que recurrir a prácticas no éticas que perjudican la industria.<br>
 **¿Cómo se puede aprovechar al máximo las nuevas tecnologías y herramientas disponibles en la actualidad para brindar facilidades para adquirir y consumir contenido literario a los lectores que mejoren su experiencia en general?**
@@ -168,11 +167,9 @@ De este modo, se detectó como factor crítico la falta de acceso fácil y legal
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Assumptions:**<br>
-Creo que mis usuarios necesitan una mejor forma de realizar el proceso de publicación y monetización del contenido que ellos elaboran.
-Estas necesidades se pueden resolver con una aplicación web que facilite la publicación de los diversos tipos de obras que se publiquen (cómics, mangas, novelas ligeras, etc.) y automatice y facilite la posibilidad de monetizar las obras de un autor.
-Mis clientes iniciales son los autores que se encargan de crear el contenido a publicarse y monetizarse. <br>
+Creo que mis clientes necesitan acceder a una amplia variedad de mangas y productos de anime de manera conveniente y atractiva en la era digital. Estas necesidades se pueden resolver con una plataforma digital que facilite el acceso, distribución y publicación de contenidos de mangas y productos de anime. Mis clientes iniciales serán los amantes de los mangas y tiendas pequeñas que buscan llegar a un mercado más amplio a través de mi plataforma. El valor #1 que un cliente quiere obtener de mi servicio es acceso conveniente a una amplia variedad de contenido relevante y de calidad. El cliente también puede obtener beneficios adicionales como personalización del contenido, recomendaciones basadas en intereses individuales, y descuentos en forma de "bundles". <br>
 
-El valor #1 que un cliente requiere de mi servicio es que puedan publicar sus obras de manera rápida y sencilla, además de que les permita realizar las operaciones de edición y publicación.<br>
+El valor #1 que un cliente requiere de mi servicio es que puedan acceder al catálogo de productos de las tiendas y distruibuidoras de forma eficiente y segura, además de que les permita realizar las operaciones de compra y venta.<br>
 
 El cliente también puede obtener estos beneficios adicionales: ahorrar tiempo en realizar el proceso de publicación (al contar con una herramienta que lo gestiona de una manera más automatizada), una mejor experiencia por parte de los lectores (al contar con una amplia variedad de contenido centralizado en una aplicación que le fomente a seguir leyendo) y una mayor facilidad para obtener algún tipo de retribución económica por sus obras.
 
