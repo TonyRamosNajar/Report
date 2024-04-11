@@ -307,14 +307,14 @@ Preguntas introductorias:
 
 Preguntas principales:
 
-- 
-- 
--
-- 
-- 
-- 
-- 
-- 
+- ¿Qué géneros de manga prefieres y por qué?
+- ¿Sigues a autores específicos? ¿Cuáles son tus favoritos?
+- ¿Prefieres comprar mangas en formato físico o digital? ¿Por qué?
+- ¿También compras mercancia de tus mangas preferidos?
+- ¿Cómo decides qué manga comprar? ¿Qué factores influyen en tu decisión?
+- ¿Qué buscas en una tienda de mangas, ya sea en línea o física?
+- Describe una experiencia de compra positiva que hayas tenido al adquirir mangas. ¿Qué la hizo especial?
+
 
 ### 2.2.2. Registro de entrevistas
 
