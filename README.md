@@ -431,13 +431,13 @@ _Consumidores de contenido_
 
 ## 3.1. To-Be Scenario Mapping
 
-Creador de contenido
+Distribuidores de contenido
 
-![To-BE Scenario Mapping](images/To-Be%20Scenario%20Mapping%20Creador%20de%20contenido.png)
+![To-BE Scenario Mapping](images/TOBE-Distribuidores.png)
 
 Lector de contenido
 
-![To-Be Scenario Mapping](images/To-Be%20Scenario%20Mapping%20Lector%20de%20contenido.png)
+![To-Be Scenario Mapping](images/TOBE-Lectores.png)
 
 ## 3.2. User Stories
 
@@ -457,7 +457,13 @@ Lector de contenido
 
 ## 3.3. Impact Mapping
 
-![Impact Mapping](images/Impact%20Mapping.png)
+Distribuidores de contenido
+
+![Impact Mapping](images/impact-mapping-distribuidores.png)
+
+Lector de contenido
+
+![Impact Mapping](images/impact-mapping-lectores.png)
 
 ## 3.4. Product Backlog
 
