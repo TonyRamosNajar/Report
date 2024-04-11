@@ -441,13 +441,19 @@ Lector de contenido
 
 ## 3.2. User Stories
 
-Creador de contenido
+|**Epic/Story**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
+| :-: | :-: | :-: | :-: | :-: |
+| EPIC-001        | Plataforma de Comercio Electrónico para Anime y Manga | Como propietario de una tienda de anime, quiero tener una plataforma digital que me permita publicar y vender mi inventario de manera eficiente para llegar a un mercado más amplio y aumentar mis ventas. | - La plataforma permite a los propietarios de tiendas registrar sus cuentas. <br> - Los propietarios de tiendas pueden cargar y gestionar su inventario de productos. <br> - Los usuarios pueden buscar y comprar productos fácilmente. | -                        |
+| EPIC-002        | Experiencia de Usuario Enriquecida     | Como usuario final apasionado por el anime, quiero una experiencia de usuario en la plataforma que sea atractiva y fácil de usar, con funciones como recomendaciones personalizadas y una navegación intuitiva. | - La plataforma presenta una interfaz de usuario atractiva y fácil de navegar. <br> - Los usuarios reciben recomendaciones personalizadas según sus preferencias. | -                        |
+| HU-01           | Registro y Creación de Perfil           | Como usuario de la plataforma, quiero poder registrarme y crear un perfil para acceder a todas las funcionalidades, como buscar y comprar productos.                           | - Los usuarios pueden registrarse en la plataforma proporcionando información básica. <br> - Los usuarios pueden crear y editar sus perfiles. | EPIC-001                 |
+| HU-02           | Publicación de Productos                | Como propietario de una tienda, quiero poder publicar mis productos en la plataforma de manera fácil y rápida, incluyendo imágenes, descripciones y precios.                   | - Los propietarios de tiendas pueden agregar nuevos productos con imágenes, descripciones y precios. | EPIC-001                 |
+| HU-03           | Búsqueda y Filtros de Productos         | Como consumidor, quiero poder buscar y filtrar productos por tienda, categoría y precio para encontrar rápidamente lo que estoy buscando.                                         | - Los usuarios pueden buscar productos por tienda, categoría y precio. <br> - Los usuarios pueden aplicar filtros para refinar los resultados de búsqueda. | EPIC-001                 |
+| HU-04           | Gestión de Carrito de Compras           | Como usuario, quiero poder agregar productos a mi carrito de compras, editar la cantidad y proceder al pago de manera segura y confiable.                                           | - Los usuarios pueden agregar productos al carrito de compras y editar la cantidad. <br> - Los usuarios pueden proceder al pago de forma segura. | EPIC-001                 |
+| HU-05           | Interacción con la Comunidad            | Como propietario de una tienda, quiero poder interactuar con los clientes a través de publicaciones de blog, recibir comentarios y calificaciones para mejorar mis productos y servicios. | - Los propietarios de tiendas pueden publicar entradas de blog y recibir comentarios. <br> - Los usuarios pueden dejar comentarios y calificaciones en los productos. | EPIC-001                 |
+| HU-06           | Personalización de Contenido           | Como usuario, quiero recibir recomendaciones personalizadas de productos basadas en mis intereses y compras anteriores para descubrir nuevas obras de anime y manga.                | - Los usuarios reciben recomendaciones personalizadas según sus intereses y compras anteriores. | EPIC-002                 |
+| HU-07           | Gestión de Pedidos y Envíos            | Como propietario de una tienda, quiero poder gestionar fácilmente los pedidos recibidos, procesarlos y coordinar los envíos de manera eficiente para garantizar una experiencia de compra satisfactoria para mis clientes. | - Los propietarios de tiendas pueden ver y gestionar los pedidos recibidos. <br> - Los propietarios de tiendas pueden coordinar los envíos de manera eficiente. | EPIC-001                 |
+| HU-08           | Soporte y Atención al Cliente          | Como usuario, quiero contar con un servicio de atención al cliente accesible y receptivo que resuelva mis dudas, problemas o reclamos de manera oportuna y efectiva.                | - Los usuarios pueden acceder a un servicio de atención al cliente a través de diferentes canales (chat en vivo, correo electrónico, etc.). <br> - El servicio de atención al cliente responde a las consultas de manera oportuna y efectiva. | EPIC-002                 |
 
-![User Stories](images/User%20Stories.jpeg)
-
-Lector de contenido
-
-![User Stories](<images/User%20Stories%20(2).jpeg>)
 
 ## 3.3. Impact Mapping
 
