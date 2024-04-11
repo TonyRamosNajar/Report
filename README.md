@@ -49,16 +49,6 @@
 
 ---
 
-# Project Report Collaboration Insights
-
-[Repository to Final Report]() <br>
-[Frontend Repository]()<br>
-[Backend Repository]()<br>
-[Landing page Repository]()<br>
-[Team Organization]()
-
----
-
 # Tabla de Contenido
 
 - [Capitulo I: Introducción](#capitulo-i-introducción)
