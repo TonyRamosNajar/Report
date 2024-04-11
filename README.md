@@ -297,16 +297,18 @@ Preguntas introductorias:
 - ¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
 - ¿A qué se dedica actualmente?
 - ¿Cuáles son los dispositivos que utiliza principalmente?
-- 
+- ¿Eres apasionado por la lectura?
+- ¿Que es lo que te gusta leer (Libros, historietas, cómics, mangas)?
+  
 Preguntas principales:
 
 - ¿Qué géneros de manga prefieres y por qué?
 - ¿Sigues a autores específicos? ¿Cuáles son tus favoritos?
 - ¿Prefieres comprar mangas en formato físico o digital? ¿Por qué?
+- ¿Alguna vez tuviste alguna dificultad para adquirir un manga en formato físico?
 - ¿También compras mercancia de tus mangas preferidos?
 - ¿Cómo decides qué manga comprar? ¿Qué factores influyen en tu decisión?
-- ¿Qué buscas en una tienda de mangas, ya sea en línea o física?
-- Describe una experiencia de compra positiva que hayas tenido al adquirir mangas. ¿Qué la hizo especial?
+- ¿Qué esperas de una tienda de mangas, ya sea en línea o física?
 
 
 ### 2.2.2. Registro de entrevistas
