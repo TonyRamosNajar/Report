@@ -479,9 +479,6 @@ Lector de contenido
 
 Inter. (s.f.). Google Fonts. Recuperado 26 de marzo de 2023, de https://fonts.google.com/specimen/Inter
 
-La República. (2022, 7 marzo). Día Mundial de la Lectura: ¿por qué es importante y qué beneficios brinda leer a menudo? Recuperado 27 de marzo de 2023, de https://larepublica.pe/datos-lr/respuestas/2022/03/07/dia-mundial-de-la-lectura-por-que-es-importante-y-que-beneficios-brinda-la-lectura-libros-evat
-
-Staff, F. (2021, 6 noviembre). Peruanos leen un libro al año en promedio, según estudio. Forbes Perú. Recuperado 26 de marzo de 2023, de https://forbes.pe/forbes-life/2021-11-06/peruanos-leen-un-libro-al-ano-en-promedio-segun-estudio/
 
 T. (2018, 21 junio). Information Architecture. Basics for Designers. - UX Planet. Medium. https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
 
