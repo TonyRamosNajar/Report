@@ -150,9 +150,9 @@ En el dinámico mercado del anime y el manga, los dueños de tiendas y distribui
 **¿Cómo atraer más clientes a las tiendas y distruibuidoras de anime haciendo uso de las nuevas tecnologías e innovaciones que existen en el mercado actual?**
 
 **Problem Statement #2: Consumidores de contenido**<br>
-Las personas que buscan consumir contenido literario a menudo se enfrentan a la difícil realidad de no tener acceso fácil al contenido en formato digital. Además, en algunos casos no logran encontrar legalmente el contenido deseado, lo que las lleva a recurrir a prácticas ilegales como la piratería, lo que afecta directamente a los creadores de contenido.
-De este modo, se detectó como factor crítico la falta de acceso fácil y legal al contenido literario en formato digital que permitan a los lectores seguir apoyando a los autores de las obras que ellos consumen sin tener que recurrir a prácticas no éticas que perjudican la industria.<br>
-**¿Cómo se puede aprovechar al máximo las nuevas tecnologías y herramientas disponibles en la actualidad para brindar facilidades para adquirir y consumir contenido literario a los lectores que mejoren su experiencia en general?**
+Las personas que buscan consumir productos de anime a menudo se enfrentan a la difícil realidad de no tener acceso fácil al contenido a través de medios digitales. Además, en algunos casos no logran encontrar legalmente el contenido deseado, lo que las lleva a recurrir a distribuidores informales los cuáles no siempre ofrecen productos originales, lo que afecta directamente a los distribuidores formales.
+De este modo, se detectó como factor crítico la falta de acceso fácil y legal a los productos a través de medios digitales que permitan a los consumidores seguir comprando productos que ellos consumen sin tener que recurrir a prácticas no éticas que perjudican la industria.<br>
+**¿Cómo se puede aprovechar al máximo las nuevas tecnologías y herramientas disponibles en la actualidad para brindar facilidades para adquirir y adquirir estos productos que mejoren su experiencia en general?**
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -226,13 +226,13 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-**Creemos que** 
+**Creemos que** sí ofrecemos una plataforma para la publicación de productos como mangas y novelas ligeras asiáticas (principalmente), aumentará el interés del público en estas formas de entretenimiento. **Sabremos que** estamos en lo cierto **cuando** se observa un aumento en el número de usuarios que visitan y utilizan nuestro sitio web regularmente.
 
-**Creemos que**, 
+**Creemos que**, si permitimos que las tiendas publiquen sus productos en nuestro sitio web, aumentará la diversidad de contenido y atraerá a una audiencia más amplia. **Sabremos que** estamos en lo cierto **cuando** recibamos comentarios positivos de compras satisfactorias, indicando que nuestro sitio web ha sido útil para adquirir sus productos y obtener ventas.
 
-**Creemos que**, 
+**Creemos que**, si proporcionamos herramientas y recursos por medio de blog posts para que los compradores puedan comentar y calificar productos o tiendas, podrán mejorar su imagen de las tiendas y dar mayor seguridad al comprar. **Sabremos que** estamos en lo cierto **cuando** veamos un aumento en la cantidad y calidad de productos publicadas en nuestro sitio web.
 
-**Creemos que** 
+**Creemos que** sí ofrecemos una experiencia de usuario fácil de usar y una interfaz de alta calidad, los consumidores estarán más inclinados a usar nuestro sitio web como su fuente principal para adquirir mangas, peluchas y mercancia de sus animes favoritos. **Sabremos que** estamos en lo cierto **cuando** las tiendas que publicaron sus productos en nuestro sitio web comienzan a ser recibir mayores reseñas y compras.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -240,9 +240,9 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 
 ## 1.3. Segementos Objetivos
 
-**:** 
+**Distribuidores de anime:** Personas, tiendas o distribuidoras que se dediquen a la produccion y venta de estos productos.
 
-**Consumidores de contenido:** 
+**Consumidores de contenido:** Personas que disfrutan de leer mangas o comprar productos de sus animes y buscan una plataforma en línea para adquirir estos de forma rápida, sencilla y segura.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
