@@ -662,7 +662,7 @@ A continuación, se muestran los principales ejemplos del uso de las herramienta
 
 </div>
 
-##### Reading a literary producto
+##### Reading a literary product
 
 <div align="center">
 
@@ -706,22 +706,119 @@ Publicación de un producto literario nuevo
   
 </div>
 
+#### Bounded Context Canvas:
+
+##### Leyenda de colaboradores:
+
+<div align="center">
+
+![leyendcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/c1.png)
+  
+</div>
+
+##### Publicación de un producto literario:
+
+<div align="center">
+
+![publicationcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/c2.png)
+  
+</div>
+
+En esta sección se especifican los Ubiquitous Language para cada subdominio del negocio. Sin embargo, no es necesario especificarlo para todos ya que el negocio no presenta términos complejos, sino palabras claves conocidas por todos los involucrados.
 
 ### 4.8.1. Software Architecture Context Diagram
 
+Este diagrama corresponde al diagrama de contextos del modelo C4. En él se detalla los principales usuarios, nuestro sistema y los sistemas externos que emplearemos. Asimismo, se muestra la relación entre cada elemento.
+
+<div align="center">
+
+![softwarearchitecturecurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/context_d.png)
+  
+</div>
+
+#### Landscape Diagram:
+
+<div align="center">
+
+![landscapecurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/landscape.png)
+  
+</div>
+
 ### 4.8.2. Software Architecture Container Diagrams
 
+Este diagrama corresponde al diagrama de contenedores del modelo C4. Aquí se especifican los contenedores y bounded context que conforman nuestro sistema Read-R, tomando elementos como el Landing, el Api Rest, la base de datos, etc. Y detalla en qué contexto están relacionados los sistemas externos con nuestro sistema de software.
+
+<div align="center">
+
+![containercurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/container_d.png)
+  
+</div>
+
 ### 4.8.3. Software Architecture Components Diagrams
+
+Estos diagramas corresponden a los diagramas de componentes del modelo C4. Aquí se detalla mucho más cada bounded context que conforma nuestro software Read-R, mostrando sus componentes y la relación entre ellos.
+
+#### Account Context:
+
+<div align="center">
+
+![accountcontextcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/component1.png)
+  
+</div>
+
+#### Visualization Context:
+
+<div align="center">
+
+![visualizationcontextcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/component2.png)
+  
+</div>
+
+#### Publishing Context:
+
+<div align="center">
+
+![publishingcontextcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/component3.png)
+  
+</div>
+
+#### Reading Context:
+
+<div align="center">
+
+![readingcontextcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/component4.png)
+  
+</div>
+
+#### Payment Context:
+
+<div align="center">
+
+![paymentcontextcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/component5.png)
+  
+</div>
 
 ## 4.9. Software Object-Oriented Design
 
 ### 4.9.1. Class Diagrams
+
+<div align="center">
+
+![classdiagramscurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/class_d.png)
+  
+</div>
 
 ### 4.9.2. Class Dictionary
 
 ## 4.10. Database Design
 
 ### 4.10.1. Relational/Non-Relational Database Diagram
+
+<div align="center">
+
+![databasediagramscurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/database_d.png)
+  
+</div>
 
 ---
 
