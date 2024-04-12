@@ -337,21 +337,28 @@ Distrito:
 
 _Lector_
 
-Nombre completo: 
+Nombre completo: Anapaula Diaz
 
-Edad: 
+Edad: 21 años
 
-Distrito: 
+Distrito: Cercado de lima
 
+<video width="640" height="360" controls>
+  <source src="(https://youtu.be/1VlRfYxsuVA)" type="">  
+</video>
 ![Alt text](image-10.png)
 
 
 
-Nombre completo: 
+Nombre completo: Eduardo Arenas
 
-Edad: 
+Edad: 22 años
 
-Distrito: 
+Distrito: Cercado de lima
+
+<video width="640" height="360" controls>
+  <source src="(https://youtu.be/f3VZy_-7u8k)" type="">  
+</video>
 ![Alt text](image-18.png)
 
 
