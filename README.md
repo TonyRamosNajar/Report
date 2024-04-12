@@ -485,6 +485,9 @@ Lector de contenido
 
 ## 4.1. Style Guidelines
 
+### 4.1.1. General Style Guidelines
+
+
 Para el branding que utilizaremos para nuestro servicio (Curihub), será el siguiente modelo:
 
 <div align="center">
@@ -529,9 +532,25 @@ Para el uso de espaciado en nuestra aplicación, usaremos multiplos de 8 en un r
 
 Al tener como segmento objetivo a jóvenes (en su mayoría) y adultos lectores y/o escritores de fanfics, en un rango de entre 18 y 40 años, hemos optado por utilizar un tono divertido, casual, respetuoso y sereno para que estos puedan sentir que están en una aplicación juvenil, remarcando la energía y emoción al momento de leer sus historias favoritas.
 
-### 4.1.1. General Style Guidelines
-
 ### 4.1.2. Web Style Guidelines
+
+Uno de los aspectos más importantes en el desarrollo web es el uso correcto del responsive design para que la aplicación se visualice perfectamente sin importar el tamaño de la pantalla o dispositivo.
+
+Por esta razón, se decidió realizar el desarrollo de nuestra solución tomando en cuenta los siguientes breakpoints para que el responsive design se muestre correctamente:
+
+<div align="center">
+
+| Breakpoint prefix | Minimum width |
+|:-----------------:|:-------------:|
+| sm                | 640px         |
+| Md                | 768px         |
+| L                 | 1024px        |
+| xl                | 1280px        |
+| 2xl               | 1536px        |
+
+</div>
+
+Con respecto a los estándares visuales, se utilizarán los mismos elementos presentados en la sección anterior para lograr uniformidad en todo el uso de nuestra aplicación. Igualmente, las medidas y propiedades presentadas son escalables, manejables y compatibles con el desarrollo de responsive design.
 
 ### 4.1.3. Mobile Style Guidelines
 
@@ -539,6 +558,170 @@ Al tener como segmento objetivo a jóvenes (en su mayoría) y adultos lectores y
 
 #### 4.1.3.2. Android Mobile Style Guidelines
 
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+El área de diseño de nuestra startup decidió enfocarse principalmente en la facilidad o satisfacción que el usuario tendrá al usar nuestra aplicación. Todos los elementos de diseño que hemos utilizado como las paletas de colores, imágenes e íconos, han seguido una tendencia minimalista con el fin de no exponer a los usuarios con tanta información.
+
+En el caso del landing page de nuestra aplicación nos hemos basado en el sistema de organización jerárquica (o “Visual hierarchy”, en inglés). La razón de esta elección es debido al impacto positivo que una página bien distribuida según tamaños, espacios y colores brinda al usuario. Por ejemplo, en la primera vista del landing page se añadirán elementos de tamaños grandes y con colores únicos (como el botón call to action), para captar la atención del visitante. Asimismo, mientras se hace scroll down por la página los tamaños se verán reducidos.
+
+Por otro lado, cuando el usuario entre a la aplicación web en sí, utilizaremos un sistema de organización matricial (en inglés, “Matrix”). Este sistema, a diferencia del jerárquico, es un poco más complejo para el usuario porque está diseñado para que el usuario tome el control de su navegación (tubik, 2017). Sin embargo, al ser una aplicación basada en la lectura y/o escritura fanfics, es necesario dividir las secciones de esta manera para que se pueda tener mejor organizado lo que ofrecemos.
+
+En nuestra aplicación se aplican los cuatro esquemas de categorización de contenido, mediante un sistema de filtros para buscar contenido. Se podrá rotar entre el Alphabetical, Chronological, Topic y Audience schemes.
+
+### 4.2.2. Labeling Systems
+
+Será realizado de tal forma que las palabras utilizadas sean simples y fáciles de entender. Las etiquetas en la aplicación tendrán un máximo de cuatro palabras.
+
+Esto se verá reflejado cuando hagamos la presentación del landing page y web application, de manera que sea más sencillo entender este concepto y cómo buscamos realizarlo.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Title: Curihub
+
+Description: Registrate y descubre las mejores historias de tus personajes favoritos. ¡ Adéntrate en Curihub !
+
+Keywords: Fanfic, Fanfiction, Lectura, Novelas, Escritura.
+
+Author: Curihub
+
+### 4.2.4. Searching Systems
+
+Se optó por implementar una interfaz que resalte los botones e información principal para llamar la atención de los usuarios más emocionales e invitarlos a entrar en nuestra aplicación. Sin embargo, para los usuarios racionales, se ha brindado información más detallada para que puedan tomar la decisión de utilizar nuestro producto.
+
+Es por estas razones que disponemos de los botones “call to action” que permiten llevar al usuario al registro para empezar a hacer uso de la aplicación. Se han posicionado al inicio y al final del landing page.
+
+Con respecto a la aplicación, vamos a resaltar los subtítulos más importantes que dividen las funcionalidades de esta, para que a los usuarios se les facilite encontrar lo que buscan.
+
+### 4.2.5. Navigation Systems
+
+Se buscará priorizar fluidez a través de todo el contenido de nuestra landing page y aplicación web, con la capacidad de encontrar toda la información necesaria.
+
+De esta manera, el usuario no se sentirá frustrado o confundido por una mala organización de la información.
+
+En consecuencia, todo el diseño trabajado para nuestro proyecto, será enfocado en cumplir estas reglas establecidas.
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+### 4.3.2. Landing Page Mock-up
+
+## 4.4. Mobile Applications UX/UI Design
+
+### 4.4.1. Mobile Applications Wireframes
+
+### 4.4.2. Mobile Applications Wireflow Diagrams
+
+### 4.4.3. Mobile Applications Mock-ups
+
+### 4.4.4. Mobile Applications User Flow Diagrams
+
+## 4.5. Mobile Applications Prototyping
+
+### 4.5.1. Android Mobile Applications Prototyping
+
+### 4.5.2. iOS Mobile Applications Prototyping
+
+## 4.6. Web Applications UX/UI Design
+
+### 4.6.1. Web Applications Wireframes
+
+### 4.6.2. Web Applications Wireflow Diagrams
+
+### 4.6.3. Web Applications Mock-ups
+
+### 4.6.4. Web Applications User Flow Diagrams
+
+## 4.7. Web Applications Prototyping
+
+## 4.8. Domain-Driven Software Architecture
+
+Para esta sección hemos empleado los principios de Domain-Driven Design (DDD) en conjunto con el modelo de visualización de la arquitectura de software C4 (Context, container, components and code).
+
+#### Herramientas del domain-driven design:
+
+A continuación, se muestran los principales ejemplos del uso de las herramientas de DDD aplicados a nuestro dominio, tales como el Storytelling, Event Storming, Domain message flow modeling y Bounded context canvas.
+
+#### Storytelling:
+
+##### Publishing a literary product:
+
+<div align="center">
+
+![publishingcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/st1.png)
+
+</div>
+
+##### Looking for a literary product:
+
+<div align="center">
+
+![lookingcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/st2.png)
+
+</div>
+
+##### Reading a literary producto
+
+<div align="center">
+
+![readingcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/st3.png)
+
+</div>
+
+#### Event Storming:
+
+##### Leyenda:
+
+<div align="center">
+
+![elementscurihub](https://github.com/GraphicNovelHub/Report/blob/main/images/Leyenda.jpg?raw=true)
+  
+</div>
+
+##### Publicación de productos literarios:
+
+##### Visualización de productos literarios:
+
+##### Lectura de productos literarios:
+
+#### Domain Message Flow Modeling:
+
+##### Elementos:
+
+<div align="center">
+
+![elementscurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/dm1.png)
+  
+</div>
+
+##### Escenario:
+
+Publicación de un producto literario nuevo
+
+<div align="center">
+
+![elementscurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/dm2.png)
+  
+</div>
+
+
+### 4.8.1. Software Architecture Context Diagram
+
+### 4.8.2. Software Architecture Container Diagrams
+
+### 4.8.3. Software Architecture Components Diagrams
+
+## 4.9. Software Object-Oriented Design
+
+### 4.9.1. Class Diagrams
+
+### 4.9.2. Class Dictionary
+
+## 4.10. Database Design
+
+### 4.10.1. Relational/Non-Relational Database Diagram
 
 ---
 
