@@ -343,9 +343,7 @@ Edad: 21 años
 
 Distrito: Cercado de lima
 
-<video width="640" height="360" controls>
-  <source src="(https://youtu.be/1VlRfYxsuVA)" type="">  
-</video>
+[Ver entrevista](https://youtu.be/1VlRfYxsuVA)
 ![Alt text](image-10.png)
 
 
@@ -356,9 +354,7 @@ Edad: 22 años
 
 Distrito: Cercado de lima
 
-<video width="640" height="360" controls>
-  <source src="(https://youtu.be/f3VZy_-7u8k)" type="">  
-</video>
+[Ver entrevista](https://youtu.be/f3VZy_-7u8k)
 ![Alt text](image-18.png)
 
 
@@ -375,6 +371,8 @@ Distrito:
 ### 2.2.3. Análisis de entrevistas
 
 - Consumidores de contenido:
+
+Hemos realizado entrevistas a los consumidores de contenido para recopilar información sobre sus experiencias previas al intentar comprar mangas, así como sus gustos y preferencias entre los mangas y sus autores. Durante este proceso, hemos identificado una serie de dificultades que enfrentan al comprar mangas. En primer lugar, hemos observado que existe una escasez de tiendas y una limitada variedad de opciones disponibles. Además, se ha destacado una preferencia general por el formato digital sobre el físico entre los consumidores encuestados. También hemos registrado problemas recurrentes durante el proceso de compra, lo que indica una experiencia insatisfactoria para muchos consumidores. Por último, hemos notado que el género del manga influye significativamente en las decisiones de compra de los consumidores de contenido.
 
 
 
