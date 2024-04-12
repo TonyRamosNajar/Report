@@ -344,6 +344,7 @@ Edad: 21 años
 Distrito: Cercado de lima
 
 [Ver entrevista](https://youtu.be/1VlRfYxsuVA)
+
 ![Alt text](image-10.png)
 
 
