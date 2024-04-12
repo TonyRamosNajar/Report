@@ -481,6 +481,64 @@ Lector de contenido
 |   7      |    HU-07        | Gestión de Pedidos y Envíos | Como propietario de una tienda, quiero poder gestionar fácilmente los pedidos recibidos, procesarlos y coordinar los envíos de manera eficiente para garantizar una experiencia de compra satisfactoria para mis clientes. | 8 |
 |   8      |    HU-08        | Soporte y Atención al Cliente | Como usuario, quiero contar con un servicio de atención al cliente accesible y receptivo que resuelva mis dudas, problemas o reclamos de manera oportuna y efectiva. | 3 |
 
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+Para el branding que utilizaremos para nuestro servicio (Curihub), será el siguiente modelo:
+
+<div align="center">
+
+![logocurihub](https://github.com/GraphicNovelHub/Report/blob/main/images/logocurihub.png?raw=true)
+
+</div>
+
+#### Typography
+
+Se optó por utilizar la tipografía "Inter", debido a que es simple, fácil de leer y está diseñada para ayudar con la legibilidad de letras minúsculas y mayúsculas para el lector. (Google fonts, s.f.).
+
+#### Colors
+
+Brand Colors:
+
+<div align="center">
+
+![colorcurihub](https://github.com/GraphicNovelHub/Report/blob/main/images/Colors.jpg?raw=true)
+
+</div>
+
+Para el resto de colores de los aspectos básicos de la aplicación, se utilizará la siguiente paleta de colores:
+
+<div align="center">
+
+![colorappcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/paleta_colores.png)
+
+</div>
+
+#### Spacing
+
+Para el uso de espaciado en nuestra aplicación, usaremos multiplos de 8 en un rango amplio para poder tener a nuestra disposición distintos tamaños para los elementos según sea requerido.
+
+<div align="center">
+
+![spacingcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/spacing.png)
+
+</div>
+
+#### Tono de Comunicación y Lenguaje Aplicado
+
+Al tener como segmento objetivo a jóvenes (en su mayoría) y adultos lectores y/o escritores de fanfics, en un rango de entre 18 y 40 años, hemos optado por utilizar un tono divertido, casual, respetuoso y sereno para que estos puedan sentir que están en una aplicación juvenil, remarcando la energía y emoción al momento de leer sus historias favoritas.
+
+### 4.1.1. General Style Guidelines
+
+### 4.1.2. Web Style Guidelines
+
+### 4.1.3. Mobile Style Guidelines
+
+#### 4.1.3.1. iOS Mobile Style Guidelines
+
+#### 4.1.3.2. Android Mobile Style Guidelines
+
 
 ---
 
