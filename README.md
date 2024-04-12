@@ -681,9 +681,27 @@ A continuación, se muestran los principales ejemplos del uso de las herramienta
 
 ##### Publicación de productos literarios:
 
+<div align="center">
+
+![elementscurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/e2.png?raw=true)
+  
+</div>
+
 ##### Visualización de productos literarios:
 
+<div align="center">
+
+![elementscurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/e3.png?raw=true)
+  
+</div>
+
 ##### Lectura de productos literarios:
+
+<div align="center">
+
+![elementscurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images/e4.png?raw=true)
+  
+</div>
 
 #### Domain Message Flow Modeling:
 
