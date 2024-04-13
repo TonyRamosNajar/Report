@@ -239,7 +239,7 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 
 ![leanux.jpg](images%2Fleanux.jpg)
 
-## 1.3. Segementos Objetivos
+## 1.3. Segmentos Objetivos
 
 **Distribuidores de anime:** Personas, tiendas o distribuidoras que se dediquen a la produccion y venta de estos productos.
 
