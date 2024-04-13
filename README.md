@@ -110,7 +110,7 @@ Nuestra vusión es ser reconocidos como líderes globales en la distribución de
 | <img src="./images/jose.jpeg" width="200" height="200">  |  Mi nombre es Jose Daniel Zarate Castro y actualmente tengo 20 años. Soy un estudiante de Ingeniería de Software en el quinto ciclo de mi formación académica. Soy una persona muy orientada al trabajo en equipo y siempre estoy entusiasmado por colaborar y contribuir al máximo. Me considero un participante activo en cualquier proyecto o actividad que emprenda. Tengo una actitud empática hacia los demás y me esfuerzo por entender las necesidades y perspectivas de mis compañeros. En términos de conocimientos técnicos tengo conocimientos en Java, c# y Python.
  |
 
-## 1.2. Solution Profile
+## 1.2. Solution Profiles
 
 ### 1.2.1. Antecedentes y Problemática
 
